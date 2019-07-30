@@ -1,0 +1,10 @@
+Ponovo resiti zadatke sa termina 7 i 8, pri cemu voditi racuna da se sledeci delovi zadataka implementiraju uz pomoc map/reduce/filter funkcija:
+
+Termin 7, Zadatak 4, Reduce iskoristiti za pronalazenje najstarijeg i najmladjeg psa
+Termin 7, Zadatak 6, Prosecnu ocenu izracunati uz pomoc reduce-a
+Termin 7, Zadatak 6, Omiljeni profesori pronaci upotrebom filter i map funkcije
+Termin 7, Zadatak 8, Pokusati odraditi funkciju devetke sa kombinacijom filter i reduce-a (u okviru filtera poziva se reduce koji sumira broj devetki)
+Termin 7, Zadatak 11, Dodaj na lager iskoristiti filter za pronalazenje elementa
+Termin 7, Zadatak 11, dodajNamestaj iskoristiti filter za pronalazenje namestaja sa postojecom sifrom
+Termin 7, Zadatak 11, prodajKomad iskoristiti filter za pronalazenje namestaja sa postojecom sifrom
+Termin 8, Zadatak 3, upotreba reduce-a za prosek
